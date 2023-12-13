@@ -15,31 +15,27 @@
 
 #### Main Stack:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
+[![My Skills](https://skillicons.dev/icons?i=java, spring, html,css,git,&perline=5)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Studying in this moment:
+#### Estudando no momento:
 
-![SPRING](https://skillicons.dev/icons?i=Spring&perline=3)
+[![My Skills](https://skillicons.dev/icons?i=SPRING&perline=3)](https://skillicons.dev)
 
 #### Databases:
 
-![MYSQL](https://img.shields.io/badge/MYSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=linux, vscode, notion&perline=3)](https://skillicons.dev)
+
 
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contatos:
 
 <div> 
 <a href="https://www.instagram.com/zynn3d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
