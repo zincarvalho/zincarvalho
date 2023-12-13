@@ -1,6 +1,4 @@
 
-<p align="center"> Olá, seja bem vindo! </p>&nbsp;
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=zincarvalho&theme=radical&mode=weekly" />
  </a>
@@ -12,7 +10,7 @@
 
 
 
-## Minha habilidades
+## Minhas Skills
 
 #### Main Stack:
 
@@ -34,7 +32,7 @@
 
 #### Workstation Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,slack,notion,eclipse&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,slack,notion,eclipse&perline=6)](https://skillicons.dev)
 
 &nbsp;
 &nbsp;
