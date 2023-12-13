@@ -15,13 +15,17 @@
 
 #### Main Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java, spring, html,css,git,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,&perline=3)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+#### Second Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&perline=3)](https://skillicons.dev)
+
 #### Estudando no momento:
 
-[![My Skills](https://skillicons.dev/icons?i=SPRING&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring&perline=3)](https://skillicons.dev)
 
 #### Databases:
 
@@ -29,8 +33,7 @@
 
 #### Workstation Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=linux, vscode, notion&perline=3)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,slack,notion&perline=3)](https://skillicons.dev)
 
 &nbsp;
 &nbsp;
