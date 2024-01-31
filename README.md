@@ -1,52 +1,20 @@
+### olá!👋, eu sou Dennys Cavalcanti Carvalho, mais conhecido entre alguns como Zin 😁
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=zincarvalho&theme=radical&mode=weekly" />
- </a>
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=zincarvalho&show_icons=true&theme=radical&layout=compact" />
-</div>
- 
- &nbsp;
- &nbsp;
+- 🔭 Eu atualmente estou estudando o ecossistema Spring com Java
+- 💬 Quer falar sobre carreira e trocar uma ideia sobre tecnologia? 
+- 📫 Você pode me achar mandando um email pra zynn3d@hotmail.com
 
+Minha Stack atualmente é Java, Spring, Hibernate, MySQL and HTML/CSS/Bootstrap. Além de programação eu tenho um profundo interesse por Games, preservação da história da tecnologia e Música.
 
+**Languages e Ferramentas:** 
 
-## Minhas Skills
-
-#### Main Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring&perline=5)](https://skillicons.dev)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Second Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=5)](https://skillicons.dev)
-
-#### Estudando no momento:
-
-[![My Skills](https://skillicons.dev/icons?i=spring,docker,hibernate,&perline=5)](https://skillicons.dev)
-
-#### Databases:
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=5)](https://skillicons.dev)
-
-#### Workstation Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,slack,notion,eclipse&perline=6)](https://skillicons.dev)
-
-&nbsp;
-&nbsp;
-
-## Contatos:
-
-<div> 
-<a href="https://www.instagram.com/zynn3d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:zynn3d@hotmail.com"> <img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/dennys-cavalcanti-carvalho-0441a032/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
