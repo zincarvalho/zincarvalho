@@ -1,10 +1,11 @@
 ### olá!👋, eu sou Dennys Cavalcanti Carvalho, mais conhecido entre alguns como Zin 😁
 
-- 🔭 Eu atualmente estou estudando o ecossistema Spring com Java
+- 🔭 Eu atualmente estou estudando o ecossistema Spring
 - 💬 Quer falar sobre carreira e trocar uma ideia sobre tecnologia? 
 - 📫 Você pode me achar mandando um email pra zynn3d@hotmail.com
 
-Minha Stack atualmente é Java, Spring, Hibernate, MySQL and HTML/CSS/Bootstrap. Além de programação eu tenho um profundo interesse por Games, preservação da história da tecnologia e Música.
+Minha Stack atualmente é Java com Spring, Hibernate, MySQL and HTML/CSS/Bootstrap. 
+Atualmente estou estudando NodeJS, arequiteturas... Além de programação eu tenho um profundo interesse por Games, preservação da história da tecnologia e Música.
 
 **Languages e Ferramentas:** 
 
