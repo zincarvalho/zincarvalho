@@ -5,7 +5,10 @@
 - 📫 Você pode me achar mandando um email pra zynn3d@hotmail.com
 
 Minha Stack atualmente é Java com Spring, Hibernate, MySQL and HTML/CSS/Bootstrap. 
-Atualmente estou estudando NodeJS, arequiteturas... Além de programação eu tenho um profundo interesse por Games, preservação da história da tecnologia e Música.
+Atualmente estou estudando NodeJS, uso de APIs e arquiteturas... 
+
+Além de programação, sou professor na AESA-CESA no curso sueperior de análise e desenvolvimento de sistemas nas cadeiras de Engenharia de Software, Linguagem de Definição de Dados e Introdução a Programação.
+Tambem possuo um profundo interesse por Games, preservação da história da tecnologia e Música.
 
 **Languages e Ferramentas:** 
 
