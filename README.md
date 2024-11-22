@@ -4,10 +4,10 @@
 - 💬 Quer falar sobre carreira e trocar uma ideia sobre tecnologia? 
 - 📫 Você pode me achar mandando um email pra zynn3d@hotmail.com
 
-Minha Stack atualmente é Java com Spring, Hibernate, MySQL and HTML/CSS/Bootstrap. 
-Atualmente estou estudando NodeJS, uso de APIs e arquiteturas... 
+Minha Stack atualmente é Java com Spring, Hibernate, MySQL mas tenho minhas experiencias com PHP.
 
-Além de programação, sou professor na AESA-CESA no curso sueperior de análise e desenvolvimento de sistemas nas cadeiras de Engenharia de Software, Linguagem de Definição de Dados e Introdução a Programação.
+Além de continuo estudante em Programação, sou professor na AESA-CESA no curso sueperior de Análise e Desenvolvimento de Sistemas nas cadeiras de Padrões de Arquietura de Software, Engenharia de Software, Linguagem de Definição de Dados e Introdução a Programação.
+
 Tambem possuo um profundo interesse por Games, preservação da história da tecnologia e Música.
 
 **Languages e Ferramentas:** 
