@@ -1,14 +1,13 @@
-### olá!👋, eu sou Dennys Cavalcanti Carvalho, mais conhecido entre alguns como Zin 😁
+### olá! Meu nome é Dennys Carvalho, mas alguns me conhecem por Zin. 
 
-- 🔭 Eu atualmente estou estudando o ecossistema Spring
 - 💬 Quer falar sobre carreira e trocar uma ideia sobre tecnologia? 
-- 📫 Você pode me achar mandando um email pra zynn3d@hotmail.com
+- 📫 Você pode me achar mandando um email pra zincarvalho@outlook.com
 
-Minha Stack atualmente é Java com Spring, Hibernate, MySQL mas tenho minhas experiencias com PHP.
+Minha stack atualmente é Java com Spring, Hibernate, MySQL e tenho alguma experiencia com PHP.
 
-Além de continuo estudante em Programação, sou professor na AESA-CESA no curso sueperior de Análise e Desenvolvimento de Sistemas nas cadeiras de Padrões de Arquietura de Software, Engenharia de Software, Linguagem de Definição de Dados e Introdução a Programação.
+Além de continuo estudante (agora mirando um mestrado em Engenharia da Computação), tambem sou professor na AESA-CESA no curso sueperior de Análise e Desenvolvimento de Sistemas nas cadeiras de Padrões de Arquietura de Software, Engenharia de Software, Linguagem de Definição de Dados e Introdução a Programação.
 
-Tambem possuo um profundo interesse por Games, preservação da história da tecnologia e Música.
+Tambem possuo um profundo interesse por sistemas operacionais alternativos, preservação da história da tecnologia, música e as vezes quando dá tempo, games.
 
 **Languages e Ferramentas:** 
 
